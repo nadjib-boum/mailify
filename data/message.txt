@@ -1,0 +1,20 @@
+<p style='font-size:15px'>
+  Hi {name}
+  <br /><br />
+  I am wondering if there are any repetitive tasks within your plumbing business that could be automated.
+  My name is Nadjib Allah.
+  <br /><br />
+  I help plumbing businesses like yours save more time and money by automating their business tasks and processes.
+  <br /><br />
+  I will automate a bunch of your tasks and processes. If it doesn't save you at least 5 hours per week then you won't pay anything.
+  <br /><br />
+  I will save you valuable time that you can use it to either grow your business more or you can dedicate it to your personal life.
+  <br /><br />
+  My automation services can also save you money by eliminating the need to pay other workers for these repetitive tasks.
+  <br /><br />
+  If you're interested, please feel free to message me here, and I'll be happy to arrange a meeting appointment.
+  <br /><br />
+  Thank you and best regerds
+  <br />
+  Nadjib Allah
+</p>

@@ -1,0 +1,25 @@
+{
+  "name": "emailify",
+  "version": "1.0.0",
+  "description": "Cold emailing tool",
+  "main": "index.js",
+  "scripts": {
+    "mailify": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@inquirer/confirm": "^2.0.15",
+    "@inquirer/prompts": "^3.3.0",
+    "cli-progress": "^3.12.0",
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.3.1",
+    "figlet": "^1.7.0",
+    "googleapis": "^130.0.0",
+    "gradient-string": "^2.0.2",
+    "nanospinner": "^1.1.0",
+    "nodemailer": "^6.9.8"
+  }
+}
